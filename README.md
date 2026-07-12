@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/dashboard.png" alt="Dashboard" width="100%">
-</p>
-
-# ⚡ AI Smart Grid Monitoring System
 # ⚡ AI Smart Grid Monitoring System
 ## 📌 Project Overview
 
