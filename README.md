@@ -1,4 +1,16 @@
 # ⚡ AI Smart Grid Monitoring System
+<p align="center">
+  <a href="https://smart-grid-monitoring-isha240724.streamlit.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-red?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Live-red?style=flat-square&logo=streamlit">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square">
+</p>
 ## 📌 Project Overview
 
 AI Smart Grid Monitoring System is a Machine Learning based web application developed using Python and Streamlit for intelligent monitoring of electrical parameters and automatic fault detection in smart grids.
