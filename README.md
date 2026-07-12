@@ -59,3 +59,40 @@ AI-Smart-Grid-Monitoring-System
 ├── README.md
 └── .gitignore
 ```
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+## 📡 Live Monitoring
+
+![Live Monitoring](assets/live-monitoring.png)
+
+---
+
+## 📜 Prediction History
+
+![Prediction History](assets/prediction-history.png)
+
+---
+
+## 📊 Analytics
+
+![Analytics](assets/analytics.png)
+
+---
+
+## 📁 Upload Dataset
+
+![Upload Dataset](assets/upload-dataset.png)
+
+---
+
+## ℹ️ About Project
+
+![About Project](assets/about.png)
